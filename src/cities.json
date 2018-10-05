@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1,
+    "name": "New York",
+    "image": "",
+    "nickname": "The Big Apple",
+    "location": "USA"
+  },
+  {
+    "id": 2,
+    "name": "Los Angeles",
+    "image": "",
+    "nickname": "The City of Angels",
+    "location": "USA"
+  },
+  {
+    "id": 3,
+    "name": "Chicago",
+    "image": "images/chicago.jpg",
+    "nickname": "The Windy City",
+    "location": "USA"
+  },
+  {
+    "id": 4,
+    "name": "Seattle",
+    "image": "",
+    "nickname": "The Emerald City",
+    "location": "USA"
+  },
+  {
+    "id": 5,
+    "name": "San Francisco",
+    "image": "",
+    "nickname": "SF",
+    "location": "USA"
+  },
+  {
+    "id": 6,
+    "name": "London",
+    "image": "",
+    "nickname": "The Square Mile",
+    "location": "UK"
+  },
+  {
+    "id": 7,
+    "name": "Rome",
+    "image": "",
+    "nickname": "The Eternal City",
+    "location": "Italy"
+  },
+  {
+    "id": 8,
+    "name": "Paris",
+    "image": "",
+    "nickname": "The City of Love",
+    "location": "France"
+  },
+  {
+    "id": 9,
+    "name": "Dublin",
+    "image": "",
+    "nickname": "The Fair City",
+    "location": "Ireland"
+  },
+  {
+    "id": 10,
+    "name": "Munich",
+    "image": "",
+    "nickname": "World City with Heart",
+    "location": "Germany"
+  },
+  {
+    "id": 11,
+    "name": "Barcelona",
+    "image": "",
+    "nickname": "The City of Counts",
+    "location": "Spain"
+  },
+  {
+    "id": 12,
+    "name": "Amsterdam",
+    "image": "",
+    "nickname": "Venice of the North",
+    "location": "Netherlands"
+  },
+  {
+    "id": 13,
+    "name": "Athens",
+    "image": "",
+    "nickname": "The City of Violet Crown",
+    "location": "Greece"
+  },
+  {
+    "id": 14,
+    "name": "Tokyo",
+    "image": "",
+    "nickname": "Electric Town",
+    "location": "Japan"
+  },
+  {
+    "id": 15,
+    "name": "Melbourne",
+    "image": "",
+    "nickname": "City by the Bay",
+    "location": "Australia"
+  },
+  {
+    "id": 16,
+    "name": "Vancouver",
+    "image": "",
+    "nickname": "The Big Smoke",
+    "location": "Canada"
+  },
+  {
+    "id": 17,
+    "name": "Madrid",
+    "image": "",
+    "nickname": "El Foro",
+    "location": "Spain"
+  },
+  {
+    "id": 18,
+    "name": "Shanghai",
+    "image": "",
+    "nickname": "Queen of the Orient",
+    "location": "China"
+  },
+  {
+    "id": 19,
+    "name": "Bangkok",
+    "image": "",
+    "nickname": "The Big Mango",
+    "location": "Thailand"
+  },
+  {
+    "id": 20,
+    "name": "Dubai",
+    "image": "",
+    "nickname": "City of Gold",
+    "location": "UAE"
+  },
+  {
+    "id": 21,
+    "name": "Vienna",
+    "image": "",
+    "nickname": "The Imperial City",
+    "location": "Austria"
+  }
+
+]
