@@ -1,0 +1,11 @@
+.navbar {
+    background:indigo;
+    width: 100%;
+    min-height: 75px;
+    color: #ffffff;
+  }
+
+  .navbar li {
+    display: inline-block;
+    text-align: center;
+}
