@@ -52,7 +52,6 @@ class AppContainer extends React.Component {
                                 />
                             </Col>
                         })}
-
                     </Row>
                 </Container>
             </Wrapper>
