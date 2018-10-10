@@ -20,10 +20,7 @@ class AppContainer extends React.Component {
   handleClick = id => {
     this.shuffle(this.state.cities);
 
-    let alreadyClicked = this.state.clickedCities;
-    console.log("Already clicked = " , alreadyClicked.includes(id));
-
-    if ( alreadyClicked === false) {
+    if ( this.state.clickedCities.includes(id) === false) {
 
         this.state.clickedCities.push(id);
         console.log("this is the clicked cities array: ", this.state.clickedCities);
@@ -31,8 +28,13 @@ class AppContainer extends React.Component {
         this.setState({ cities, score: this.state.score + 1 });
     } else {
 
-        console.log("Add logic to reset the game and check if the total high score was beaten!");
-        
+      if (this.state.score > this.state.totalscore) {
+        this.setState({ cities, score: 0, totalscore: this.state.score, clickedCities: [] });
+      } else {
+
+        this.setState({ cities, score: 0, clickedCities: [] });
+      }
+        alert("New High Score!");
     }
   };
 
