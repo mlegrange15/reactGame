@@ -29,12 +29,12 @@ class AppContainer extends React.Component {
     } else {
 
       if (this.state.score > this.state.totalscore) {
+        alert("New High Score!");
         this.setState({ cities, score: 0, totalscore: this.state.score, clickedCities: [] });
       } else {
-
+        alert("Sorry you lose!");
         this.setState({ cities, score: 0, clickedCities: [] });
       }
-        alert("New High Score!");
     }
   };
 
