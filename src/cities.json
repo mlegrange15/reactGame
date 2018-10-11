@@ -145,6 +145,13 @@
     "image": "https://media.architecturaldigest.com/photos/5adf4632eafdee4e6e6c3cd1/4:3/w_384,c_limit/GettyImages-677597924.jpg",
     "nickname": "The Imperial City",
     "location": "Austria"
+  },
+  {
+    "id": 22,
+    "name": "Prague",
+    "image": "https://traveller-eu.ru/sites/default/files/styles/index/public/2017-08-29%2009.25.48%202-900x599.jpg?itok=H0hDxq3y",
+    "nickname": "City of a Hundred Spires",
+    "location": "Czech Republic"
   }
 
 ]
