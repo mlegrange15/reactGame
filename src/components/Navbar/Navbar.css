@@ -8,4 +8,9 @@
   .navbar li {
     display: inline-block;
     text-align: center;
+    padding: 15px;
+}
+
+.fa-github {
+  color: black;
 }

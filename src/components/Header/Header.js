@@ -5,8 +5,8 @@ import "./Header.css";
 
 const Header = () => (
 <header className="header">
- <h1>Clicky Game!</h1>
- <h2>Click on an image to earn points, but don't click on any more than once!</h2>
+ <h1>Travel Memory Game!</h1>
+ <h2>Click on a city image to earn points, but don't click on any more than once!</h2>
 </header>
 );
 
