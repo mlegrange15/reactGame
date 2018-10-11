@@ -1,7 +1,8 @@
 .header {
-    background-color: gray;
-    color: #ffffff;
+    color: coral;
+    font-family: 'Russo One', sans-serif;
     text-align: center;
     min-height: 300px;
     padding: 60px;
+    background-image: url("https://cmkt-image-prd.global.ssl.fastly.net/0.1.0/ps/277157/580/386/m1/fpnw/wm1/pattern-with-travel-symbols-on-blue-.jpg?1418934330&s=472c6a2bcb27ffd768343382f06b0743");
 }
