@@ -7,6 +7,8 @@ This app will test your memory skills. You are given 24 cities and the name of t
 
 Screenshot
 
+![Alt text](images/screenshot.png?raw=true "App Screenshot")
+
 Technologies used
 React
 Bootstrap / Reactstrap
