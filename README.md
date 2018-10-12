@@ -11,7 +11,9 @@ This app will test your memory skills. You are given 24 cities and the name of t
 ## Technologies used:
 
 React
+
 Bootstrap / Reactstrap
+
 ES6
 
 ## App Link:
