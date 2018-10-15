@@ -17,6 +17,7 @@ class AppContainer extends React.Component {
     clickedCities: []
   };
 
+  // handles city image clicks and logic for game
   handleClick = id => {
     this.shuffle(this.state.cities);
 
@@ -37,7 +38,7 @@ class AppContainer extends React.Component {
       }
     }
   };
-
+// funtion that shuffles the array of cities if the game is still going
   shuffle = array => {
     let control = array.length,
       temp,
@@ -51,8 +52,6 @@ class AppContainer extends React.Component {
     }
     return array;
   };
-
-  handleTotalScore = () => {};
 
   render() {
     return (
